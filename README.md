@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sarthak-pande-jain-1435a1229/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sarthakpandejain@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sarthakpande1008@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
